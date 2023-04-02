@@ -3,18 +3,21 @@
 ## Usage
 
 ### Install 
-    - Docker: https://docs.docker.com/get-docker/
+- Docker: https://docs.docker.com/get-docker/
 
 ### Configure
 Inside *prod* folder we can configure environment variables and other services options.
 
 ### Run
-    Download and build the corresponding images
-    ```
-    git clone https://github.com/docpad/dockerfile.git
-    cd prod
-    docker-compose up -d
-    ```
+Download and build the corresponding images
+```
+git clone https://github.com/docpad/dockerfile.git
+
+cd prod
+
+docker-compose up -d
+```
+    
 
 ### Services
 
