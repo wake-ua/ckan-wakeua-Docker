@@ -17,8 +17,11 @@ cd prod
 
 docker-compose up -d
 ```
-    
 
+### Create user
+Create an user to start uploading data.
+```docker exec -it ckan /usr/local/bin/ckan -c /etc/ckan/production.ini sysadmin add newuser```
+Log in the web and generate an 
 ### Services
 
 | Service    | Port | Description                                                   |
