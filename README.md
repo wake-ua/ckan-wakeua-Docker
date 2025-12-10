@@ -14,10 +14,10 @@
 
 This research project is supported by:
 
-**Funding organization/institution:**  Conselleria de Educación, Universidades y Empleo de la Generalitat Valenciana
-**Program or grant:** Subvenciones a grupos de investigación consolidados
-**Project code/reference:** CIAICO/2022/019
-**Duration:** [01/01/2023 – 31/12/2025]  
+- **Funding organization/institution:**  Conselleria de Educación, Universidades y Empleo de la Generalitat Valenciana
+- **Program or grant:** Subvenciones a grupos de investigación consolidados
+- **Project code/reference:** CIAICO/2022/019
+- **Duration:** [01/01/2023 – 31/12/2025]  
 
 ---
 
