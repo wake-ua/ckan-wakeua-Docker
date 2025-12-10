@@ -1,6 +1,33 @@
-# ckan-wakeua docker-compose fro production
+# *TDATA/ckan-DEPLOY*
 
-## Usage
+> Deploy TDATA with docker on production
+
+---
+
+## Objectives
+
+- Develop a distribution for TDATA CKAN portal
+
+---
+
+## Funding Information
+
+This research project is supported by:
+
+**Funding organization/institution:**  Conselleria de Educación, Universidades y Empleo de la Generalitat Valenciana
+**Program or grant:** Subvenciones a grupos de investigación consolidados
+**Project code/reference:** CIAICO/2022/019
+**Duration:** [01/01/2023 – 31/12/2025]  
+
+---
+
+## Technology
+- Python
+- Docker
+- CKAN
+---
+
+## Installation and Usage
 
 ### Install 
 - Docker: https://docs.docker.com/get-docker/
@@ -32,3 +59,24 @@ Log in the web and generate an
 | redis      |      | A pre-built Redis image                                       |
 | datapusher | 8800 | A pre-built CKAN Datapusher image                             |
 
+
+---
+
+## Authors / Contributors
+- Alberto Berenguer Pastor – [@aberenguerpas](https://github.com/aberenguerpas)  
+
+---
+
+## License
+
+This project is distributed under the [MIT License](LICENSE)
+
+
+---
+
+## 💬 Contact
+
+For questions, collaborations, or further information:
+
+📧 [wake@dlsi.ua.es](mailto:wake@dlsi.ua.es)  
+🌐 [Wake Research group](https://wake.dlsi.ua.es/)
